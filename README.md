@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xardy011
-- 👀 I’m interested in :)
-- 🌱 I’m currently learning GLua
+- 👀 I’m interested on creating Discord bots.
+- 🌱 I’m currently learning Python.
 
 <!---
 Xardy011/Xardy011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
